@@ -42,7 +42,7 @@ To search for weather information of a specific location, follow these steps:
 7. Tap on the refresh button at the next to search button for refresh data.
 
 ![Image](https://share.icloud.com/photos/02aRPqveQ_l6gIzUK6iTbrFXA)
-
+[![Image][https://share.icloud.com/photos/02aRPqveQ_l6gIzUK6iTbrFXA](https://share.icloud.com/photos/02aRPqveQ_l6gIzUK6iTbrFXA)
 
 ## Contributions
 
