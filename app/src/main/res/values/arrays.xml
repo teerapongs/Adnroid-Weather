@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="popular_cities">
+        <item>My Location</item>
+        <item>Bangkok</item>
+        <item>Chiang Mai</item>
+        <item>Phuket</item>
+        <item>Tokyo</item>
+        <item>Seoul</item>
+        <item>New York</item>
+        <item>London</item>
+        <item>Hong Kong</item>
+        <item>Taiwan</item>
+        <item>Sydney</item>
+    </string-array>
+</resources>
