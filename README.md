@@ -27,3 +27,22 @@ The Weather Application is built using the following technologies and libraries:
 - JAVA: Gradle Java 11
 
 ## Usage
+
+Upon launching the Weather Application, you will be greeted with the main screen, which displays the current weather information 
+for your current location (if location services are enabled) or the default location.
+
+To search for weather information of a specific location, follow these steps:
+
+1. Tap on the search button at the right-top of the screen.
+2. Enter the city name of the desired location.
+3. Tap on the search button on your keyboard.
+4. The application will display the current weather conditions, humidity, and weather description the selected location.
+5. Tap on the forecast button at under humidity for see forecast all on the different screen.
+6. Tap on the switch button at on right-top temperature for switch type of temperature(Celsius and Fahrenheit).
+7. Tap on the refresh button at the next to search button for refresh data.
+
+
+
+
+
+
