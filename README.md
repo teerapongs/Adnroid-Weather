@@ -22,6 +22,7 @@ The Weather Application is built using the following technologies and libraries:
 - Kotlin: The primary programming language used for Android app development.
 - Retrofit: A popular HTTP client library for making API requests and handling responses.
 - Gson: A library for converting JSON responses from the API into Java objects.
+- Koin: The pragmatic Kotlin & Kotlin Multiplatform Dependency Injection framework.
 - RecyclerView: A flexible view for displaying a scrollable list of items.
 - SDK: Target SDK 33, CompileSDK 33, adn Min SDK 24
 - JAVA: Gradle Java 11
