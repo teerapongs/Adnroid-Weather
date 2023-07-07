@@ -41,8 +41,9 @@ To search for weather information of a specific location, follow these steps:
 6. Tap on the switch button at on right-top temperature for switch type of temperature(Celsius and Fahrenheit).
 7. Tap on the refresh button at the next to search button for refresh data.
 
-![Image](https://share.icloud.com/photos/02aRPqveQ_l6gIzUK6iTbrFXA)
 [![Image][https://share.icloud.com/photos/02aRPqveQ_l6gIzUK6iTbrFXA](https://share.icloud.com/photos/02aRPqveQ_l6gIzUK6iTbrFXA)
+[![Image][https://share.icloud.com/photos/0313LDbV_tf_A-z_pVu-5IECQ](https://share.icloud.com/photos/0313LDbV_tf_A-z_pVu-5IECQ)
+[![Image][https://share.icloud.com/photos/0aelNjtlvzwLKzTy6qAAr3igQ](https://share.icloud.com/photos/0aelNjtlvzwLKzTy6qAAr3igQ)
 
 ## Contributions
 
